@@ -1,6 +1,4 @@
-# Hi there, I'm Vlad 👋
-
-***
+# Hi there!
 
 I'm an ML Engineer who transitioned into machine learning from power electronics, embedded systems, and automotive engineering. I work across the broader ML/DS field, exploring different areas of deep learning and building models with a solid engineering mindset.
 
